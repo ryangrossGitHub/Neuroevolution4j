@@ -11,4 +11,4 @@ The reason to go server-side is you can have 2 tabs open at once, and both clien
 1) Setup a DB to persist the network
 2) Move code base to serverless infrastructure : )
 
-![Alt text](img/Capture.PNG?raw=true)
+![Alt text](src/main/resources/static/img/Capture.PNG?raw=true)
