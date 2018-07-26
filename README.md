@@ -1,6 +1,6 @@
 # Neuroevolution4j
 
-This is based off of http://ryangrossGitHub.github.io/NeuralRocketLander, go there to check out a quick demo in the browser (This app is server-side).
+This is based off of https://github.com/ryangrossGitHub/NeuralRocketLander, go there to check out a quick demo in the browser (That app is pure js client-side, this app requires hosting on the server-side).
 
 While I used concepts from the javascript neural net code, this was completely re-written to be more simplistic and to take advantage of Java's more structured style.
 
